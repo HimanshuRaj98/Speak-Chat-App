@@ -1,1 +1,1 @@
-npm i express cors socket.io
+npm i express cors socket.io socket.io-client nodemon 
